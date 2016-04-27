@@ -1,0 +1,18 @@
+<chapter>
+
+	<title>Michelle's Chapter</title>
+
+	<p>
+		Michelle's chapter is the best chapter!
+	</p>
+
+	<p>It is sometimes convenient to associate a real number, or other mathematical object, with each outcome of a random experiment.  The notion of a random variable formalizes this idea.</p>
+
+	<p> Now I'm going to try to do some math.  Here's an equation that I like: <m>X: \Omega \to S</m>.  Here's a displayed math equation.
+	<me>
+		P[X=x]=\Sum_{\omega \in X^{-1}({s})}P(\omega).
+	</me>
+	That's all I've got!</p>
+
+
+</chapter>
