@@ -1,0 +1,10 @@
+<chapter xml:id="chapter-TIMS">
+	<title> This is the first chapter of "This is my Story" </title> 
+
+	<p> Now is the time for all good human beings to come to the aid of their git party. </p>
+
+	<p> I'd really like to include a section here to show some multi-level work. </p>
+
+ <!--   <xi:include  href="A_Section.xml" />     -->
+
+</chapter>
