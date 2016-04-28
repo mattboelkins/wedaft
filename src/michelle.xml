@@ -10,7 +10,7 @@
 
 	<p> Now I'm going to try to do some math.  Here's an equation that I like: <m>X: \Omega \to S</m>.  Here's a displayed math equation.
 	<me>
-		P[X=x]=\Sum_{\omega \in X^{-1}({s})}P(\omega).
+		P[X=x]=\sum_{\omega \in X^{-1}({s})}P(\omega).
 	</me>
 	That's all I've got!</p>
 
